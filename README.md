@@ -1,2 +1,2 @@
 # imago
-Easily create image-based backups with a client–server system.
+Easily perform image-based backups using a client–server architecture.
